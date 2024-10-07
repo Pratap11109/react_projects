@@ -1,0 +1,6 @@
+useState is used to set state for variable, and it return two variable one is actual variable and
+second is function to set value to variable
+
+
+to run 
+npm run dev
